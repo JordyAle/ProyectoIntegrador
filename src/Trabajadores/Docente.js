@@ -10,7 +10,7 @@ const ListaAlumnos = () => {
   const [alumnos, setAlumnos] = useState([]);
 
   const fetchAlumnos = async () => {
-    const response = await fetch('http://localhost/apiprueba/api.php');
+    const response = await fetch('https://alex.starcode.com.mx/apiBD.php');
     const data = await response.json();
     setAlumnos(data);
   };
