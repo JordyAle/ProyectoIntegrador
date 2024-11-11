@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/JordyAle/ProyectoIntegrador.git/static/css/main.7929d3d2.css",
+    "main.js": "/JordyAle/ProyectoIntegrador.git/static/js/main.d4b1586d.js",
+    "static/js/488.9f9e4cce.chunk.js": "/JordyAle/ProyectoIntegrador.git/static/js/488.9f9e4cce.chunk.js",
+    "static/media/logo.svg": "/JordyAle/ProyectoIntegrador.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/JordyAle/ProyectoIntegrador.git/index.html",
+    "main.7929d3d2.css.map": "/JordyAle/ProyectoIntegrador.git/static/css/main.7929d3d2.css.map",
+    "main.d4b1586d.js.map": "/JordyAle/ProyectoIntegrador.git/static/js/main.d4b1586d.js.map",
+    "488.9f9e4cce.chunk.js.map": "/JordyAle/ProyectoIntegrador.git/static/js/488.9f9e4cce.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7929d3d2.css",
+    "static/js/main.d4b1586d.js"
+  ]
+}
