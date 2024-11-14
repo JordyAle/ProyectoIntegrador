@@ -2,7 +2,7 @@
   "name": "pruebas701",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://jordyale.github.io/ProyectoIntegrador/",
+  "homepage": "https://jordyale.github.io/ProyectoIntegrador",
   "dependencies": {
     "@babel/core": "^7.16.0",
     "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
